@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "identity": {
+    "state_db": null
+  },
+  "communication": {
+    "allowed_relations": ["parent", "siblings", "children"],
+    "status_reads": "neighborhood"
+  }
+}
